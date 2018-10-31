@@ -20,3 +20,9 @@ ASConference and 3rd BADS 2018 at NIDA (29-31 Oct 2018)
 * <a href="https://github.com/MintYaChaO/BADS3rd2018Nida/wiki/Cognitive-decline-among-Thai-elderly:-Multiperspective-theory">Cognitive decline among Thai elderly: Multiperspective theory</a>
 * <a href="https://github.com/MintYaChaO/BADS3rd2018Nida/wiki/How-to-become-professional-self-learner%3F">เริ่มเรียน Data Science ด้วยตัวเองอย่างไร?</a>
 
+-----------------------
+31 Oct 2018
+-----------------------
+* <a href="https://github.com/MintYaChaO/BADS3rd2018Nida/wiki/How-to-tell-a-lie-with-Data-Visualization">How to tell a lie with Data Visualization</a>
+* <a href="https://github.com/MintYaChaO/BADS3rd2018Nida/wiki/Image-Processing:-AI-in-Tech-Start-up">Image Processing: AI in Tech Start-up</a>
+* <a href="https://github.com/MintYaChaO/BADS3rd2018Nida/wiki/Image-Processing-in-Healthcare">Image Processing in Healthcare</a>
